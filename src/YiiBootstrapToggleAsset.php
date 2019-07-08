@@ -5,11 +5,11 @@
  * Time: 11:17 AM
  */
 
-namespace hgh\yiiBootstrapToggle;
+namespace Hgh\YiiBootstrapToggle;
 
 /**
  * Class YiiBootstrapToggleAsset
- * @package hgh\yiiBootstrapToggle
+ * @package Hgh\YiiBootstrapToggle
  */
 class YiiBootstrapToggleAsset extends \yii\web\AssetBundle
 {
