@@ -9,7 +9,7 @@ YiiBootstrapToggle::register($this);
 ```
 
 <h4>HTML</h4>
-```html
+```
 <input type="checkbox" name="anything" class="testClassName" />
 ```
 
