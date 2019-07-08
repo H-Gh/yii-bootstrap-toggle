@@ -1,0 +1,25 @@
+{
+  "name": "hgh/yii-bootstrap-toggle",
+  "version": "1.1.0",
+  "type": "library",
+  "description": "Using this library you can add on/off switch button which follows bootstrap style.",
+  "keywords": ["jQuery","JavaScript", "Yii2", "PHP", "Bootstrap"],
+  "homepage": "https://github.com/H-Gh/yii-bootstrap-toggle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hamed Ghasempour",
+      "email": "hamedghasempour@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "components/jquery": "*",
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "hgh\\yiiBootstrapToggle\\": "src/"
+    }
+  }
+}
